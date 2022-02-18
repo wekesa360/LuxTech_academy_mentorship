@@ -19,5 +19,3 @@ def create_random():
             for item in split_list:
                 for element in range(0, len(item)):
                         print(item[element], end="")
-        
-create_random()
