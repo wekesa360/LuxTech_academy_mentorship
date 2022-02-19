@@ -1,8 +1,8 @@
-from inspect import _void
 import random
 import string
 
 def create_random():
+        """generate random password strings"""
         letters_count = 6
         digits_count = 3
         special_character_count = 1
